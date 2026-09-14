@@ -19,6 +19,7 @@ ALLOWED_HOSTS = [
  'www.lyndsayfulford.com',
  'localhost',
  '127.0.0.1',
+ 'proud-art-production-86c4.up.railway.app',
 ]
  
 

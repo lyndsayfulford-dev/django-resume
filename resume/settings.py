@@ -13,7 +13,16 @@ SECRET_KEY = 'django-insecure-2o*+d!g5db0ckjd4k&jl+k3t5bt0)0x%gvph9)p*ddt3g2@^t@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['proud-art-production-86c4.up.railway.app', 'lyndsayfulford.com', 'www.lyndsayfulford.com']
+<<<<<<< HEAD
+ALLOWED_HOSTS = ['proud-art-production-ppznunhs.up.railway.app', 'lyndsayfulford.com', 'www.lyndsayfulford.com']
+=======
+ALLOWED_HOSTS = [
+    'ppznunhs.up.railway.app',
+    'www.lyndsayfulford.com',
+    'localhost',
+    '127.0.0.1',
+ ]
+>>>>>>> 97dbc05 (changesettings.py)
 
 # Application definition
 
